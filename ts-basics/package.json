@@ -1,0 +1,23 @@
+{
+  "name": "react-complete-guide-s27-react-using-typescript",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "no-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil04ce/react-complete-guide-s27-react-using-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunil04ce/react-complete-guide-s27-react-using-typescript/issues"
+  },
+  "homepage": "https://github.com/sunil04ce/react-complete-guide-s27-react-using-typescript#readme",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
